@@ -7,8 +7,8 @@ ive played on my old asus laptop roblox at a very young age  and always liked th
 
 ## things im interested in  making 
 
-<o1>
-   <li>video games</1i>
-   <1i>robots</1i>
-
-   <o1>
+<ol>
+   <li>video games</li>
+   <li>robots</li>
+   <li>rockets</li>
+<ol>
